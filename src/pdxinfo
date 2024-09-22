@@ -1,0 +1,8 @@
+name=pong_wars
+author=Zach Nielsen
+description=Pong Wars and other Zero Player Games
+bundleID=com.ZNielsen.pong_wars
+version=1.0
+buildNumber=1
+# imagePath=path/to/launcher/assets
+# launchSoundPath=path/to/launch/sound/file

@@ -1,3 +1,7 @@
+
+build/*
+itch.io_assets/*
+
 # Compiled Lua sources
 luac.out
 
